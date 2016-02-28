@@ -14,8 +14,6 @@
     <!-- 日志输出级别 -->
     <root level="INFO">
         <appender-ref ref="STDOUT" />
-        <appender-ref ref="FILEINFO" />
-        <appender-ref ref="FILEERROR" />
     </root>
 
 </configuration>
